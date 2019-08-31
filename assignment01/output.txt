@@ -1,0 +1,52 @@
+TESTS FOR Computer.java:
+Windows, Intel Core i5, 8GB Memory, 400GB Solid State Drive, Price: $300.00
+Alienware, Intel Core i7, 16GB Memory, 800GB Hard Drive, Price: $500.00
+Dell, Intel Core i6, 32GB Memory, 1.5TB Solid State Drive, Price: $800.00
+Lenovo, Intel Xeon E5, 64GB Memory, 3.0TB Hard Drive, Price: $1350.00
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2000-04-02, Troy, NY
+Date and place of birth: 2000-04-02, Schenectady, NY
+Date and place of birth: 1989-04-02, Orlando, FL
+Date and place of birth: 1883-07-28, Predappio, Italy
+Date and place of birth: 1946-06-14, Moscow, Russia
+true
+false
+true
+true
+false
+true
+false
+true
+false
+
+TESTS FOR StreetUSAddress.java:
+20 Yolanda Drive
+Burnt Hills, NY 12027
+1035 VanVorst Road
+PO Box 4200
+Burnt Hills, NY 12027
+
+TESTS FOR Person.java:
+Paul Fedoroff (000-00-0004)
+Date and place of birth: 2001-08-17, Schenectady, NY, USA
+88 Lakehill Road
+Burnt Hills, NY 12027
+
+TESTS FOR ComputerOwner.java:
+Computer List, Owner: Danielle Morrow (742-06-1289)
+Date and place of birth: 2000-12-24, Albany, NY, USA
+40 Shadick Road
+Charlton, NY 12027
+Computers: [Windows, Intel Core i5, 8GB Memory, 400GB Solid State Drive, Price: $300.00
+Alienware, Intel Core i7, 16GB Memory, 800GB Hard Drive, Price: $500.00
+Dell, Intel Core i6, 32GB Memory, 1.5TB Solid State Drive, Price: $800.00
+Lenovo, Intel Xeon E5, 64GB Memory, 3.0TB Hard Drive, Price: $1350.00]
+
+TESTS FOR SimpleDate.java:
+false
+true
+false
+true
+false
+true
